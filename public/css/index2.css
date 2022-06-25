@@ -1,0 +1,492 @@
+body{
+    width: 1500px;
+    height: 4773px;
+}
+.heading{
+width: 1500px;
+height: 116px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+}
+#container1 {
+    position: absolute;
+    top: 20px;
+    left: 210px;
+    height: 87px;
+}
+.the{
+position: absolute;
+top: 20px;
+right: 180px;
+width: 39px;
+height: 40px;
+transform: matrix(0, -1, 1, 0, 0, 0);
+font: 20px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.siren{
+top: 71px;
+left: 873px;
+width: 190px;
+height: 87px;
+text-align: left;
+font: normal normal bold 50px/87px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+#container2{
+position: absolute;
+top: 35px;
+left: 1200px;
+width: 137px;
+height: 45px;
+border: 1px solid #03A87C;
+opacity: 1;
+}
+.getstarted{
+position: absolute;
+top: 9px;
+left: 20px;
+width: 95px;
+height: 24px;
+text-align: center;
+font: 10px/25px Sans;
+letter-spacing: 0px;
+border: 1px solid #03A87C;
+color: #03A87C;
+opacity: 1;
+}
+.number{
+position: absolute;
+top: 160px;
+left: 470px;
+width: 21px;
+height: 46px;
+text-align: left;
+font-size: 50px;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.title{
+position: absolute;
+top: 2px;
+left: 52px;
+width:900px;
+height: 46px;
+text-align: left;
+font-size: 50px;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.image{
+position: absolute;
+top: 250px;
+left: 452px;
+width: 103px;
+height: 103px;
+background: transparent url('img/Mask Group 21.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.nameofperson{
+position: absolute;
+top: 40px;
+left: 150px;
+width: 147px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/25px Open Sans;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.dateandtime{
+position: absolute;
+top: 75px;
+left: 150px;
+width: 180px;
+height: 19px;
+text-align: left;
+font: 16px;
+letter-spacing: 0px;
+color: #A2A2A2;
+opacity: 1;
+}
+.image1{
+    position: absolute;
+    top: 398px;
+    left: 450px;
+    width: 677px;
+    height: 370px;
+    opacity: 1;
+}
+.icon1{
+position: absolute;
+top: 40px;
+left: 457px;
+width: 26px;
+height: 26px;
+opacity: 1;
+}
+.icon2{
+    position: absolute;
+    top: 40px;
+    left: 495px;
+    width: 26px;
+    height: 26px;
+    opacity: 1;
+}
+.icon3{
+    position: absolute;
+    top: 40px;
+    left: 533px;
+    width: 26px;
+    height: 26px;
+    opacity: 1;
+}
+.icon4{
+    position: absolute;
+    top: 40px;
+    left: 571px;
+    width: 26px;
+    height: 26px;
+    opacity: 1;
+}
+.text{
+    position: absolute;
+    top: 810px;
+    left: 450px;
+    width: 677px;
+    height: 280px;
+    text-align: left;
+    font: 21px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;  
+}
+.image2{
+    position: absolute;
+    top: 900px;
+    left: 450px;
+    width: 673px;
+    height: 701px;
+    opacity: 1;
+}
+.box1{
+    position: absolute;
+    top: 1662px;
+    left: 450px;
+    width: 130px;
+    height: 35px;
+    background: rgb(179, 170, 170);
+    opacity: 1;
+}
+.react{
+position: absolute;
+top: 9px;
+left: 45px;
+width: 80px;
+height: 20px;
+text-align: left;
+font:15px;
+letter-spacing: 0px;
+color: #0f0d0d;
+opacity: 1;
+}
+.box2{
+    position: absolute;
+    top: 1662px;
+    left: 600px;
+    width: 130px;
+    height: 35px;
+    background: rgb(179, 170, 170);
+    opacity: 1;
+}
+.javascript{
+position: absolute;
+top: 9px;
+left: 35px;
+width: 80px;
+height: 20px;
+text-align: left;
+font:15px;
+letter-spacing: 0px;
+color: #0f0d0d;
+opacity: 1;
+}
+.box3{
+    position: absolute;
+    top: 1662px;
+    left: 750px;
+    width: 130px;
+    height: 35px;
+    background: rgb(179, 170, 170);
+    opacity: 1;
+}
+.animation{
+position: absolute;
+top: 9px;
+left: 35px;
+width: 80px;
+height: 20px;
+text-align: left;
+font:15px;
+letter-spacing: 0px;
+color: #0f0d0d;
+opacity: 1;
+}
+.image3{
+    position: absolute;
+    top: 1740px;
+    left: 450px;
+    width: 673px;
+    height: 701px;
+    opacity: 1;
+}
+.image4{
+position: absolute;
+top: 10px;
+left: 70px;
+width: 75px;
+height: 22px;
+text-align: left;
+font-size:16px;
+letter-spacing: 0px;
+color: #939393;
+opacity: 1;
+}
+.line{
+    position: absolute;
+    top: 1800px;
+    left: 450px;
+    width: 675px;
+    height: 1px;
+    background-color: #939393;
+    opacity: 0.57;
+}
+    
+.image5{
+    position: absolute;
+    top: 1850px;
+    left: 452px;
+    width: 103px;
+    height: 103px;
+    opacity: 1;
+    }
+    .nameofperson{
+    position: absolute;
+    top: 40px;
+    left: 150px;
+    width: 147px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    }
+    .dateandtime{
+    position: absolute;
+    top: 75px;
+    left: 150px;
+    width: 180px;
+    height: 19px;
+    text-align: left;
+    font: 16px;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;
+}
+.writtenby{
+    position: absolute;
+    top: 8px;
+    left: 150px;
+    width: 90px;
+    height: 19px;
+    text-align: left;
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;
+}
+.line1{
+    position: absolute;
+    top: 2000px;
+    left: 450px;
+    width: 675px;
+    height: 1px;
+    background-color: #939393;
+    opacity: 0.57;
+}
+.title1{
+    position: absolute;
+    top: 2050px;
+    height: 46px;
+    text-align: left;
+    font-size: 30px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.line1{
+    position: absolute;
+    top: 2100px;
+    left: 5px;
+    width: 1500px;
+    height: 3px;
+    background-color: #939393;
+    opacity: 0.57;
+}
+.title2{
+    position: absolute;
+    top: 2200px;
+    left: 15px;
+    width:900px;
+    height: 46px;
+    text-align: left;
+    font-size:20px;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;
+}
+.image6{
+    position: absolute;
+    top:2250px;
+    left: 15px;
+    height: 300px;
+    width: 400px;
+    box-shadow: 0px 5px 10px #0000001A;
+    text-align: center;
+    background-color: #d80b0b1a;
+    border-radius: 7px;
+}
+.title3{
+    position: absolute;
+    top: 2600px;
+    left: 15px;
+    width:450px;
+    height: 46px;
+    text-align: left;
+    font-size:50px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;  
+}
+.image7{
+    position: absolute;
+    top: 2800px;
+    left: 15px;
+    width: 103px;
+    height: 103px;
+    opacity: 1;
+}
+
+.title4{
+    position: absolute;
+    top: 2200px;
+    left: 510px;
+    width:900px;
+    height: 46px;
+    text-align: left;
+    font-size:20px;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;
+}
+.image8{
+    position: absolute;
+    top:2250px;
+    left: 510px;
+    height: 300px;
+    width: 400px;
+    box-shadow: 0px 5px 10px #0000001A;
+    text-align: center;
+    background-color: #d80b0b1a;
+    border-radius: 7px;
+}
+.title5{
+    position: absolute;
+    top: 2600px;
+    left: 510px;
+    width:450px;
+    height: 46px;
+    text-align: left;
+    font-size:50px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;  
+}
+.image9{
+    position: absolute;
+    top: 2800px;
+    left: 510px;
+    width: 103px;
+    height: 103px;
+    opacity: 1;
+}
+
+.title6{
+    position: absolute;
+    top: 2200px;
+    left: 1010px;
+    width:900px;
+    height: 46px;
+    text-align: left;
+    font-size:20px;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;
+}
+.image10{
+    position: absolute;
+    top:2250px;
+    left: 1010px;
+    height: 300px;
+    width: 400px;
+    box-shadow: 0px 5px 10px #0000001A;
+    text-align: center;
+    background-color: #d80b0b1a;
+    border-radius: 7px;
+}
+.title7{
+    position: absolute;
+    top: 2600px;
+    left: 1010px;
+    width:450px;
+    height: 46px;
+    text-align: left;
+    font-size:50px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;  
+}
+.image11{
+    position: absolute;
+    top: 2800px;
+    left: 1010px;
+    width: 103px;
+    height: 103px;
+    opacity: 1;
+}
+
+.clap{
+        position: absolute;
+        top: 500px;
+        left: 200px;
+        width: 103px;
+        height: 103px;
+        opacity: 1;
+}
+.share{
+        position: absolute;
+        top: 600px;
+        left: 200px;
+        width: 103px;
+        height: 103px;
+        opacity: 1;
+}
